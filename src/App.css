@@ -1,0 +1,15 @@
+.app-wrapper {
+
+    display: grid;
+  
+    grid-template-areas:  'header loginout' ;
+  
+    grid-template-columns: 1fr 205px;
+
+  
+
+
+}
+
+
+
